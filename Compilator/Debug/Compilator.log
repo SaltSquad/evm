@@ -1,0 +1,7 @@
+﻿  Lexator.cpp
+c:\users\создатель\desktop\code\cpp\evm\compilator\compilator\lexator.cpp(26): warning C4101: st: неиспользованная локальная переменная
+c:\users\создатель\desktop\code\cpp\evm\compilator\compilator\lexator.cpp(1093): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\создатель\desktop\code\cpp\evm\compilator\compilator\lexator.cpp(1102): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Source.cpp
+  Создание кода...
+  Compilator.vcxproj -> C:\Users\Создатель\Desktop\code\CPP\EVM\Compilator\Debug\Compilator.exe

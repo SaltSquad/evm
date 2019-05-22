@@ -1,0 +1,9 @@
+10 let a = 3b
+
+20 if a>b go to 40
+
+30 fo i=1 to 5
+
+50 let = 3.25
+
+160 end
