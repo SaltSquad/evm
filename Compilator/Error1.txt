@@ -2,17 +2,7 @@ Error in line: 1
 Unknown exception
 Error in line: 3
 Unknown exception
-Error in line: 4
-Unknown exception
 Error in line: 5
 Unknown exception
-Error in line: 6
-Unknown exception
 Error in line: 7
-Unknown exception
-Error in line: 8
-Unknown exception
-Error in line: 9
-Unknown exception
-Error in line: 10
 Unknown exception

@@ -19,8 +19,8 @@ void Lexator::start(const char* prog,
 	ofstream er_out(error);
 	ofstream result(rez);
 
-	if (!(in.is_open() && er_out.is_open() && result.is_open()))
-		exit(1);
+//	if (!(in.is_open() && er_out.is_open() && result.is_open()))
+	//	exit(1);
 	
 	size_t num = 1;
 	States st;
@@ -66,7 +66,7 @@ go to 80
 140 let f=f*j
 
 150 next j*/
-		num++;
+		num++; RST = A1;
 	} while (!in.eof());
 	
 	/*	TODO: Обработать:
@@ -733,7 +733,7 @@ void Lexator::_D1a()
 
 void Lexator::_D1b()
 {
-	RCH = RCH * 10 + (RZN - '0');
+	RCH = RCH * 10 + RZN;//- '0');
 	RST = D1;
 }
 
